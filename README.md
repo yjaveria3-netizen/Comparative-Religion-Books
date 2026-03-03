@@ -1,6 +1,6 @@
 # Book Library Structure
 
-This repository was reorganized into topic-based folders under `library/`.
+This repository is organized under `library/` by topic.
 
 ## atheism
 - AtheismIslam_ShoaibMalik.pdf
@@ -42,11 +42,18 @@ This repository was reorganized into topic-based folders under `library/`.
 - Sahi-Bukhari-Jilad-6.pdf
 
 ## islam
+- 10-Answer_to_an_enemy_of_islam_07_02_2022 2.pdf
+- 16-Why_Did_They_Become_Muslims_07_02_2022 2.pdf
+- 18-Sahaba_The_Blessed_07_02_2022 (1) 2.pdf
+- 8-Belief_and_Islam_25_02_2025 2.pdf
 - IIA-2-Contents.pdf
 - Izhar_ul_Haq_[eng].pdf
 - Just One Message.pdf
 - Noor-Book.com  الإسلام ومصير الإنسان.pdf
 - Noor-Book.com  المسيح في الإسلام 2 .pdf
+
+## islam/seerah
+- English_ArRaheeq_AlMakhtum_THE_SEALED_NECTAR 2.pdf
 
 ## philosophy
 - Al Ghazali Incoherence of the Philosophers.pdf
